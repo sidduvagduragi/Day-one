@@ -1,4 +1,4 @@
-# Day-one
+# Dayone
 ## github study
 ### learn something
-welcome to github
+welcome to EC
